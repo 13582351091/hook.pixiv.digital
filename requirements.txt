@@ -1,0 +1,6 @@
+requests==2.21.0
+psycopg2-binary==2.9.6
+aiohttp==3.7.3
+fastapi==0.95.0
+uvicorn
+mysql-connector-python
